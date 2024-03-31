@@ -64,7 +64,7 @@ disqus: # fromendworld
 gitalk:
   clientID: 0814e8b720258b7f3f40
   clientSecret: 1280dfdf7bb1171969dda26758d167ed2cc69120
-  repo: williamweigh2.github.io
+  repo: https://williamweigh2.github.io
   owner: williamweigh2
 
 
